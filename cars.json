@@ -1,0 +1,70 @@
+{ "carA": [{
+    "Brand"           : "Wolvo",
+    "AmountOfDoors"   : 5,
+    "FuelConsumption" : 0.097,
+    "FuelCurrent"     : 110.0
+    }],
+
+  "carB": [{
+    "Brand"           : "Wolvo",
+    "AmountOfDoors"   : 5,
+    "FuelConsumption" : 0.099,
+    "FuelCurrent"     : 100.0
+    }],
+
+  "carC": [{
+    "Brand"           : "Wolvo",
+    "AmountOfDoors"   : 4,
+    "FuelConsumption" : 0.089,
+    "FuelCurrent"     : 120.0
+    }],
+
+  "carD": [{
+    "Brand"           : "Wolvo",
+    "AmountOfDoors"   : 4,
+    "FuelConsumption" : 0.089,
+    "FuelCurrent"     : 20.0
+    }],
+
+  "carE": [{
+    "Brand"           : "Wolvo",
+    "AmountOfDoors"   : 7,
+    "FuelConsumption" : 0.080,
+    "FuelCurrent"     : 20.0
+    }],
+
+  "carF": [{
+    "Brand"           : "Wolvo",
+    "AmountOfDoors"   : 4,
+    "FuelConsumption" : 0.089,
+    "FuelCurrent"     : 60.0
+    }],
+
+  "carG": [{
+    "Brand"           : "Wolvo",
+    "AmountOfDoors"   : 4,
+    "FuelConsumption" : 0.389,
+    "FuelCurrent"     : 20.0
+    }],
+
+  "carH": [{
+    "Brand"           : "Wolvo",
+    "AmountOfDoors"   : 4,
+    "FuelConsumption" : 0.089,
+    "FuelCurrent"     : 10.0
+    }],
+
+  "carI": [{
+    "Brand"           : "Wolvo",
+    "AmountOfDoors"   : 4,
+    "FuelConsumption" : 0.089,
+    "FuelCurrent"     : 80.0
+    }],
+
+  "carJ": [{
+    "Brand"           : "Wolvo",
+    "AmountOfDoors"   : 4,
+    "FuelConsumption" : 0.189,
+    "FuelCurrent"     : 20.0
+    }]
+}
